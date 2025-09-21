@@ -119,7 +119,7 @@ src/
 
 1. **Clone repository:**
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/uvhnael/weather-app.git
    cd weather-app
    ```
 
@@ -167,7 +167,7 @@ Khi review PR, chúng tôi sẽ kiểm tra:
 
 Nếu bạn cần hỗ trợ:
 
-1. Kiểm tra [Issues](https://github.com/your-username/weather-app/issues) existing
+1. Kiểm tra [Issues](https://github.com/uvhnael/weather-app/issues) existing
 2. Đọc [README.md](./README.md) 
 3. Tạo issue mới với label `question`
 

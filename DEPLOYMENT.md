@@ -10,9 +10,9 @@ Hướng dẫn deploy Weather App lên các platform hosting phổ biến.
 
 ## 🔗 Quick Deploy Links
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/weather-app)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/uvhnael/weather-app)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/your-username/weather-app)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/uvhnael/weather-app)
 
 ## 🌐 Vercel (Recommended)
 

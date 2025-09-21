@@ -1,5 +1,11 @@
 # 🌤️ Weather App - Ứng Dụng Thời Tiết
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![React](https://img.shields.io/badge/React-19.1.1-blue.svg)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-7.1.6-646CFF.svg)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://weather-app-uvhnael.vercel.app)
+
 Một ứng dụng thời tiết hiện đại, responsive và thân thiện được xây dựng với React + Vite. Ứng dụng cung cấp thông tin thời tiết chi tiết, chính xác với giao diện đẹp mắt và trải nghiệm người dùng tuyệt vời.
 
 ![Weather App Preview](./public/preview.png)
@@ -39,7 +45,7 @@ Một ứng dụng thời tiết hiện đại, responsive và thân thiện đ�
 
 ## 🚀 Demo
 
-[**Xem Demo Trực Tiếp**](https://your-weather-app-demo.vercel.app) 
+[**Xem Demo Trực Tiếp**](https://weather-app-uvhnael.vercel.app) 
 
 ## 📱 Screenshots
 
@@ -65,7 +71,7 @@ Một ứng dụng thời tiết hiện đại, responsive và thân thiện đ�
 
 ### Clone Repository
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/uvhnael/weather-app.git
 cd weather-app
 ```
 
@@ -213,10 +219,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+**uvhnael**
+- GitHub: [@uvhnael](https://github.com/uvhnael)
+- Project: [weather-app](https://github.com/uvhnael/weather-app)
 
 ## 🙏 Acknowledgments
 

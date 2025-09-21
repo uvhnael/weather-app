@@ -5,17 +5,16 @@
   "type": "module",
   "description": "A modern, responsive weather application built with React and Vite",
   "author": {
-    "name": "Your Name",
-    "email": "your.email@example.com",
-    "url": "https://your-portfolio.com"
+    "name": "uvhnael",
+    "url": "https://github.com/uvhnael"
   },
-  "homepage": "https://github.com/your-username/weather-app#readme",
+  "homepage": "https://github.com/uvhnael/weather-app#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/weather-app.git"
+    "url": "git+https://github.com/uvhnael/weather-app.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/weather-app/issues"
+    "url": "https://github.com/uvhnael/weather-app/issues"
   },
   "keywords": [
     "weather",
