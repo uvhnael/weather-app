@@ -29,6 +29,7 @@ Chúng tôi hoan nghênh các ý tưởng mới! Khi đề xuất tính năng:
 1. **Fork** repository
 2. **Clone** fork của bạn về máy local
 3. **Tạo branch** cho feature/bugfix:
+
    ```bash
    git checkout -b feature/amazing-feature
    # hoặc
@@ -36,6 +37,7 @@ Chúng tôi hoan nghênh các ý tưởng mới! Khi đề xuất tính năng:
    ```
 
 4. **Commit** changes với message rõ ràng:
+
    ```bash
    git commit -m "feat: add weather alerts functionality"
    # hoặc
@@ -43,6 +45,7 @@ Chúng tôi hoan nghênh các ý tưởng mới! Khi đề xuất tính năng:
    ```
 
 5. **Push** lên fork của bạn:
+
    ```bash
    git push origin feature/amazing-feature
    ```
@@ -62,6 +65,7 @@ Chúng tôi sử dụng [Conventional Commits](https://www.conventionalcommits.o
 - `chore:` - Cập nhật build tasks, package manager configs, etc.
 
 ### Ví dụ:
+
 ```
 feat: add weather forecast for 7 days
 fix: resolve geolocation permission issue
@@ -83,6 +87,7 @@ Trước khi submit PR, hãy đảm bảo:
 5. **Accessibility** - Test keyboard navigation
 
 ### Chạy Tests
+
 ```bash
 npm run test        # Run unit tests
 npm run test:e2e    # Run end-to-end tests
@@ -93,6 +98,7 @@ npm run build       # Test production build
 ## 🎨 Code Style
 
 ### JavaScript/React
+
 - Sử dụng **ES6+ syntax**
 - **Functional components** với hooks
 - **Destructuring** khi có thể
@@ -100,12 +106,14 @@ npm run build       # Test production build
 - **Comments** cho logic phức tạp
 
 ### CSS/Styling
+
 - Sử dụng **Tailwind CSS classes**
 - **Mobile-first** approach
 - **Consistent naming** cho custom classes
 - **Responsive design** principles
 
 ### File Organization
+
 ```
 src/
 ├── components/     # Reusable components
@@ -118,17 +126,20 @@ src/
 ## 🚀 Development Setup
 
 1. **Clone repository:**
+
    ```bash
    git clone https://github.com/uvhnael/weather-app.git
    cd weather-app
    ```
 
 2. **Install dependencies:**
+
    ```bash
    npm install
    ```
 
 3. **Set up API key:**
+
    - Đăng ký tại [OpenWeatherMap](https://openweathermap.org/api)
    - Tạo file `.env.local`:
      ```
@@ -168,7 +179,7 @@ Khi review PR, chúng tôi sẽ kiểm tra:
 Nếu bạn cần hỗ trợ:
 
 1. Kiểm tra [Issues](https://github.com/uvhnael/weather-app/issues) existing
-2. Đọc [README.md](./README.md) 
+2. Đọc [README.md](./README.md)
 3. Tạo issue mới với label `question`
 
 ## 🙏 Cảm Ơn
