@@ -8,8 +8,6 @@
 
 Một ứng dụng thời tiết hiện đại, responsive và thân thiện được xây dựng với React + Vite. Ứng dụng cung cấp thông tin thời tiết chi tiết, chính xác với giao diện đẹp mắt và trải nghiệm người dùng tuyệt vời.
 
-![Weather App Preview](./public/preview.png)
-
 ## ✨ Tính Năng
 
 ### 🔍 **Tìm Kiếm Thông Minh**
